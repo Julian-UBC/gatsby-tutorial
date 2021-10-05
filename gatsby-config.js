@@ -106,5 +106,6 @@ module.exports = {
         plugins: [`gatsby-remark-autolink-headers`],
       },
     },
+    "gatsby-transformer-sharp",
   ],
 };
